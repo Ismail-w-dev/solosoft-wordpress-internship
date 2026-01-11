@@ -1,0 +1,1 @@
+# solosoft-wordpress-internship
