@@ -163,9 +163,9 @@ nakivo-wordpress-site/
 
 ## 📸 Screenshots
 
-![Desktop Homepage](screenshots/desktop-home.png)
+![Desktop Homepage](screenshots/home_page/1.png)
 ![Mobile View](screenshots/mobile-view.png)
-![Custom Form](screenshots/form-example.png)
+![Custom Form](screenshots/custom-form.png)
 
 ## 🧪 Testing
 
